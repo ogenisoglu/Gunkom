@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\omer_\\Documents\\GitHub\\GunkomBilisimProje\\GunkomBilisimProje\\GunkomBilisimProje\\GunkomBilisimProje.csproj",
+      "projectUniqueName": "C:\\Users\\omer_\\Documents\\GitHub\\Gunkom\\GunkomBilisimProje\\GunkomBilisimProje\\GunkomBilisimProje.csproj",
       "projectName": "GunkomBilisimProje",
-      "projectPath": "C:\\Users\\omer_\\Documents\\GitHub\\GunkomBilisimProje\\GunkomBilisimProje\\GunkomBilisimProje\\GunkomBilisimProje.csproj",
+      "projectPath": "C:\\Users\\omer_\\Documents\\GitHub\\Gunkom\\GunkomBilisimProje\\GunkomBilisimProje\\GunkomBilisimProje.csproj",
       "packagesPath": "C:\\Users\\omer_\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\omer_\\Documents\\GitHub\\GunkomBilisimProje\\GunkomBilisimProje\\GunkomBilisimProje\\obj\\",
+      "outputPath": "C:\\Users\\omer_\\Documents\\GitHub\\Gunkom\\GunkomBilisimProje\\GunkomBilisimProje\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\omer_\\AppData\\Roaming\\NuGet\\NuGet.Config",

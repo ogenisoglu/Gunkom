@@ -6,4 +6,12 @@
     <ImplicitUsings>enable</ImplicitUsings>
   </PropertyGroup>
 
+  <ItemGroup>
+    <Folder Include="Core\Application\" />
+    <Folder Include="Core\Domain\" />
+    <Folder Include="Persistance\Migrations\" />
+    <Folder Include="Persistance\Context\" />
+    <Folder Include="Persistance\Repositories\" />
+  </ItemGroup>
+
 </Project>
